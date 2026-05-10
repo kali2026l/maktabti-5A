@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "exportDate": "2026-05-10T20:24:57.533Z",
+  "cfg": {
+    "storeName": "المكتبة المدرسية",
+    "address": "شارع المدارس، القاهرة",
+    "phone": "02-xxxx-xxxx",
+    "taxId": "",
+    "taxRate": 14,
+    "footer": "شكراً لتسوقكم معنا! 📚"
+  },
+  "categories": [
+    {
+      "id": "books",
+      "name": "كتب ومراجع",
+      "emoji": "📚"
+    },
+    {
+      "id": "pens",
+      "name": "أقلام وألوان",
+      "emoji": "✏️"
+    },
+    {
+      "id": "bags",
+      "name": "شنط مدرسية",
+      "emoji": "🎒"
+    },
+    {
+      "id": "notebooks",
+      "name": "كراسات ودفاتر",
+      "emoji": "📓"
+    },
+    {
+      "id": "stationary",
+      "name": "أدوات مكتبية",
+      "emoji": "📐"
+    },
+    {
+      "id": "arts",
+      "name": "رسم وفنون",
+      "emoji": "🎨"
+    }
+  ],
+  "products": [
+    {
+      "id": "P001",
+      "code": "P001",
+      "name": "كراس A4 سلك 100 ورقة",
+      "cat": "notebooks",
+      "emoji": "📓",
+      "buyPrice": 8,
+      "sellPrice": 15,
+      "stock": 45,
+      "minStock": 10,
+      "unit": "قطعة",
+      "notes": ""
+    },
+    {
+      "id": "P002",
+      "code": "P002",
+      "name": "قلم جاف أزرق فاخر",
+      "cat": "pens",
+      "emoji": "✏️",
+      "buyPrice": 2,
+      "sellPrice": 5,
+      "stock": 200,
+      "minStock": 50,
+      "unit": "قطعة",
+      "notes": ""
+    },
+    {
+      "id": "P003",
+      "code": "P003",
+      "name": "شنطة مدرسية كبيرة",
+      "cat": "bags",
+      "emoji": "🎒",
+      "buyPrice": 120,
+      "sellPrice": 220,
+      "stock": 8,
+      "minStock": 5,
+      "unit": "قطعة",
+      "notes": ""
+    },
+    {
+      "id": "P004",
+      "code": "P004",
+      "name": "مسطرة بلاستيك 30سم",
+      "cat": "stationary",
+      "emoji": "📏",
+      "buyPrice": 3,
+      "sellPrice": 7,
+      "stock": 60,
+      "minStock": 15,
+      "unit": "قطعة",
+      "notes": ""
+    },
+    {
+      "id": "P005",
+      "code": "P005",
+      "name": "ألوان خشبية 12 لون",
+      "cat": "arts",
+      "emoji": "🎨",
+      "buyPrice": 20,
+      "sellPrice": 40,
+      "stock": 25,
+      "minStock": 8,
+      "unit": "علبة",
+      "notes": ""
+    },
+    {
+      "id": "P006",
+      "code": "P006",
+      "name": "كتاب رياضيات ابتدائي",
+      "cat": "books",
+      "emoji": "📚",
+      "buyPrice": 30,
+      "sellPrice": 55,
+      "stock": 3,
+      "minStock": 5,
+      "unit": "قطعة",
+      "notes": ""
+    },
+    {
+      "id": "P007",
+      "code": "P007",
+      "name": "محفظة أدوات صغيرة",
+      "cat": "bags",
+      "emoji": "👜",
+      "buyPrice": 25,
+      "sellPrice": 50,
+      "stock": 0,
+      "minStock": 5,
+      "unit": "قطعة",
+      "notes": ""
+    },
+    {
+      "id": "P008",
+      "code": "P008",
+      "name": "قلم رصاص HB",
+      "cat": "pens",
+      "emoji": "🖊️",
+      "buyPrice": 1.5,
+      "sellPrice": 3,
+      "stock": 150,
+      "minStock": 30,
+      "unit": "قطعة",
+      "notes": ""
+    },
+    {
+      "id": "P009",
+      "code": "P009",
+      "name": "ورق A4 - رزمة 500 ورقة",
+      "cat": "stationary",
+      "emoji": "📄",
+      "buyPrice": 40,
+      "sellPrice": 75,
+      "stock": 20,
+      "minStock": 5,
+      "unit": "رزمة",
+      "notes": ""
+    },
+    {
+      "id": "P010",
+      "code": "P010",
+      "name": "أقلام تلوين فلوماستر",
+      "cat": "arts",
+      "emoji": "🖌️",
+      "buyPrice": 18,
+      "sellPrice": 35,
+      "stock": 15,
+      "minStock": 5,
+      "unit": "علبة",
+      "notes": ""
+    }
+  ],
+  "sales": []
+}
